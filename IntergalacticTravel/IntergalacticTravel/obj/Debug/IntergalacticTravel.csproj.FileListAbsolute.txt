@@ -1,0 +1,5 @@
+E:\C#\LOL\IntergalacticTravel\bin\Debug\IntergalacticTravel.dll
+E:\C#\LOL\IntergalacticTravel\bin\Debug\IntergalacticTravel.pdb
+E:\C#\LOL\IntergalacticTravel\obj\Debug\IntergalacticTravel.csprojResolveAssemblyReference.cache
+E:\C#\LOL\IntergalacticTravel\obj\Debug\IntergalacticTravel.dll
+E:\C#\LOL\IntergalacticTravel\obj\Debug\IntergalacticTravel.pdb

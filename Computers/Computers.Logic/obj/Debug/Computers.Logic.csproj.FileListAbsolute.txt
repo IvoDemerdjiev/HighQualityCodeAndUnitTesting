@@ -1,0 +1,7 @@
+E:\C#\High-Quality-Code-master\Exams\2014\Computers\Problem\Computers.Logic\bin\Debug\Computers.Logic.dll
+E:\C#\High-Quality-Code-master\Exams\2014\Computers\Problem\Computers.Logic\bin\Debug\Computers.Logic.pdb
+E:\C#\High-Quality-Code-master\Exams\2014\Computers\Problem\Computers.Logic\obj\Debug\Computers.Logic.csprojResolveAssemblyReference.cache
+E:\C#\High-Quality-Code-master\Exams\2014\Computers\Problem\Computers.Logic\obj\Debug\Computers.Logic.dll
+E:\C#\High-Quality-Code-master\Exams\2014\Computers\Problem\Computers.Logic\obj\Debug\Computers.Logic.pdb
+E:\C#\High-Quality-Code-master\Exams\2014\Computers\Problem\Computers.Logic\bin\Debug\Computers.Logic.dll.config
+E:\C#\High-Quality-Code-master\Exams\2014\Computers\Problem\Computers.Logic\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

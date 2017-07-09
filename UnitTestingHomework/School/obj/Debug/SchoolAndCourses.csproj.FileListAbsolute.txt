@@ -1,0 +1,7 @@
+E:\C#\Tree\UnitTestingHomework\School\obj\Debug\SchoolAndCourses.csprojResolveAssemblyReference.cache
+E:\C#\Tree\UnitTestingHomework\School\bin\Debug\School.dll
+E:\C#\Tree\UnitTestingHomework\School\bin\Debug\School.pdb
+E:\C#\Tree\UnitTestingHomework\School\obj\Debug\School.dll
+E:\C#\Tree\UnitTestingHomework\School\obj\Debug\School.pdb
+E:\C#\Tree\UnitTestingHomework\School\bin\Debug\nunit.framework.dll
+E:\C#\Tree\UnitTestingHomework\School\bin\Debug\nunit.framework.xml

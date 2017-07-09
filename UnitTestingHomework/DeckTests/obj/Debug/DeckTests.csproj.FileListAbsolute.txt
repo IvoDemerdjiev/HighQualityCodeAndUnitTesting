@@ -1,0 +1,7 @@
+E:\C#\Tree\UnitTestingHomework\DeckTests\bin\Debug\DeckTests.dll
+E:\C#\Tree\UnitTestingHomework\DeckTests\bin\Debug\DeckTests.pdb
+E:\C#\Tree\UnitTestingHomework\DeckTests\bin\Debug\Santase.Logic.dll
+E:\C#\Tree\UnitTestingHomework\DeckTests\bin\Debug\Santase.Logic.pdb
+E:\C#\Tree\UnitTestingHomework\DeckTests\obj\Debug\DeckTests.csprojResolveAssemblyReference.cache
+E:\C#\Tree\UnitTestingHomework\DeckTests\obj\Debug\DeckTests.dll
+E:\C#\Tree\UnitTestingHomework\DeckTests\obj\Debug\DeckTests.pdb
